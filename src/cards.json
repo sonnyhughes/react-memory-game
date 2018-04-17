@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Sky",
+    "image": "http://media.gettyimages.com/photos/dramatic-landscape-against-cloudy-sky-picture-id529144313"
+  },
+  {
+    "id": 2,
+    "name": "Tulips",
+    "image": "http://media.gettyimages.com/photos/blooming-tulips-field-picture-id162191212"
+  },
+  {
+    "id": 3,
+    "name": "Volcano",
+    "image": "http://media.gettyimages.com/photos/eruption-holuhraun-bardarbunga-volcano-iceland-picture-id528902985"
+  },
+  {
+    "id": 4,
+    "name": "Beach",
+    "image": "http://media.gettyimages.com/photos/aerial-view-of-tourists-on-beach-picture-id556687945"
+  },
+  {
+    "id": 5,
+    "name": "Roads",
+    "image": "http://media.gettyimages.com/photos/aerial-view-of-intersecting-highways-near-trees-london-england-picture-id543197977"
+  },
+  {
+    "id": 6,
+    "name": "Fog",
+    "image": "http://media.gettyimages.com/photos/sun-and-fog-landscape-picture-id505312179"
+  },
+  {
+    "id": 7,
+    "name": "Plains",
+    "image": "http://media.gettyimages.com/photos/australia-victoria-barren-plain-with-parched-soil-picture-id539662477"
+  },
+  {
+    "id": 8,
+    "name": "Iceland",
+    "image": "http://media.gettyimages.com/photos/arctic-terns-iceland-picture-id176624891"
+  },
+  {
+    "id": 9,
+    "name": "Highway",
+    "image": "http://media.gettyimages.com/photos/aerial-view-of-highway-amidst-trees-against-clear-sky-picture-id534570145"
+  },
+  {
+    "id": 10,
+    "name": "Balloons",
+    "image": "http://media.gettyimages.com/photos/aerial-view-of-hot-air-balloons-over-landscape-picture-id545803425"
+  },
+  {
+    "id": 11,
+    "name": "Steam",
+    "image": "http://media.gettyimages.com/photos/steam-rising-from-a-geothermal-power-plant-picture-id505312173"
+  },
+  {
+    "id": 12,
+    "name": "Trails",
+    "image": "http://media.gettyimages.com/photos/star-trails-with-the-rising-moon-and-mount-shasta-picture-id150952775"
+  }
+]
+
